@@ -1,6 +1,6 @@
 # Visualizing global semiconductor supply chain
 ## Data source 
-Complexity Science Hub (2024 Visualization Complexity Workshop) \
+Complexity Science Hub (2024 Visualization Complexity Workshop) 
 ## Visualization format Cartogram & Dorling cartogram 
 **Shape-warping contiguous cartograms** \
 Also called irregular cartograms or deformation cartograms.This is a family of very different algorithms that scale and deform the shape of each district while maintaining adjacent edges.\
